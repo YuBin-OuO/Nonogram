@@ -1,4 +1,4 @@
-# ■ Nonogram Logic Puzzle Game
+# ■ Nonogram - Logic Puzzle Game
 2021-2 JAVA Term Project
 ## 🗓️ 프로젝트 기간
 2021/10/22 ~ 2021/10/31
